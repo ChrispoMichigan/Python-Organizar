@@ -14,7 +14,7 @@ Esta herramienta es un organizador automático de archivos que clasifica los dif
 ## 🚀 Descarga directa
 
 <p align="center">
-  <a href="https://github.com/ChrispoMichigan/OrganizadorCarpetas/releases/download/v1.0/organizar.exe">
+  <a href="https://github.com/ChrispoMichigan/Python-Organizar/releases/download/v1.0/organizar.exe">
     <img src="https://img.shields.io/badge/Descargar-Ejecutable-brightgreen?style=for-the-badge&logo=github" alt="Descargar Ejecutable">
   </a>
 </p>
